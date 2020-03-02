@@ -1,6 +1,10 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Sharz">
     <words>
+      <w>conv</w>
+      <w>cumsum</w>
+      <w>dcgan</w>
+      <w>mnist</w>
       <w>pclass</w>
     </words>
   </dictionary>
