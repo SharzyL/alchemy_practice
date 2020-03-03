@@ -2,3 +2,4 @@ _data
 venv
 *.csv
 test.py
+generated

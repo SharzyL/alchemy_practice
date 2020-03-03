@@ -5,7 +5,9 @@
       <w>cumsum</w>
       <w>dcgan</w>
       <w>mnist</w>
+      <w>optim</w>
       <w>pclass</w>
+      <w>waifu</w>
     </words>
   </dictionary>
 </component>
